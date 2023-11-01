@@ -120,3 +120,64 @@
             background-image: url("./WhatsApp\ Image\ 2023-08-02\ at\ 9.40.06\ AM.jpeg");
         }
         
+
+        .imgsocia3{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 3500px;
+            
+            width: 2000px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("infografia1.jpg");
+            
+              }.imgsocia31{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 3500px;
+                
+                width: 2000px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("Infografía3.jpg");
+                
+              }.imgsocia32{
+    
+                
+        
+         
+        
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 3500px;
+                    
+                    width: 2000px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("infografia2.jpg");
+                    
+                    }
+    
+      }
+
