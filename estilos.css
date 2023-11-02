@@ -54,11 +54,11 @@
     
     .texto{
     
-    font-size: 40px;
+    font-size: 30px;
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(16, 15, 15);
     
      
     
@@ -157,7 +157,10 @@
                 
                 background-image: url("Infografía3.jpg");
                 
-              }.imgsocia32{
+              }
+              
+              
+              .imgsocia32{
     
                 
         
@@ -179,5 +182,142 @@
                     
                     }
     
-      }
+
+                    .img1{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img1.jpg");
+                    }
+                    .img2{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img2.png");
+                    }
+                    .img3{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img3.png");
+                    }
+                    .img4{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img4.png");
+                    }
+                    .img5{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img5.png");
+                    }
+                    .img6{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img6.png");
+                    }
+                    .img7{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img7.png");
+                    }
+                    .img8{
+
+                      background-repeat: no-repeat;
+                    
+                      float:left;
+                      
+                      height: 214px;
+                      
+                      width: 2000px;
+                      
+                      margin-left: 5px;
+                      
+                      margin-right:5px;
+                      
+                      background-image: url("img8.png");
+                    }
+                   
+                    
+                   
+                    
+
+                    
+
+
+      
 
